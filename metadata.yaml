@@ -21,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Donatien_Alphonse_Fran%C3%A7ois_de_Sade
     - http://en.wikipedia.org/wiki/Marquis_de_Sade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17707#Aline-et-Valcour-tome-2--13-ou-le-roman-philosophique
 gutenberg_bookshelf:
 - FR Littérature
 - Erotic Fiction
