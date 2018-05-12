@@ -1,0 +1,39 @@
+_repo: Aline-et-Valcour-tome-2--13-ou-le-roman-philosophique_17707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sade, marquis de
+    aliases:
+    - Sade, D.-A.-F. (Donatien-Alphonse-François)
+    - Sade, Donatien Alphonse Francois de, comte, called Marquis de
+    - Sade, Donatien Alphonse François de, comte, called Marquis de
+    - De Sade, marquis
+    - Sade, Donatien-Alphonse-François, marquis de
+    - Marquis de Sade
+    birthdate: 1740
+    deathdate: 1814
+    gutenberg_agent_id: '6995'
+    url: http://www.gutenberg.org/2009/agents/6995
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Donatien_Alphonse_Fran%C3%A7ois_de_Sade
+    - http://en.wikipedia.org/wiki/Marquis_de_Sade
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Erotic Fiction
+gutenberg_issued: '2006-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17707'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Erotic literature -- Early works to 1800'
+title: "Aline et Valcour, tome 2\r\nou le roman philosophique"
+url: http://www.gutenberg.org/ebooks/17707
